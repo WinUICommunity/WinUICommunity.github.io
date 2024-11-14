@@ -653,7 +653,7 @@ create a new `json` file (`AppData.json`) in a folder called `DataModel`:
 {% endnote %}
 
 {% note info %}
-To see details and descriptions of Json's properties, refer to <ins>**[this](https://ghost1372.github.io/winUICommunity/jsonFile)**</ins> page
+To see details and descriptions of Json's properties, refer to <ins>**[this](https://WinUICommunity.github.io/winUICommunity/jsonFile)**</ins> page
 {% endnote %}
 
 {% note warning %}
@@ -698,7 +698,7 @@ this is a json file content:
           "Links": [
             {
               "Title": "ApplicationDataContainerPage",
-              "Uri": "https://ghost1372.github.io/WinUICommunity/helpers/applicationDataContainerHelper/"
+              "Uri": "https://WinUICommunity.github.io/WinUICommunity/helpers/applicationDataContainerHelper/"
             }
           ],
           "Extra": [
@@ -717,7 +717,7 @@ this is a json file content:
           "Links": [
             {
               "Title": "AppNotificationPage",
-              "Uri": "https://ghost1372.github.io/WinUICommunity/helpers/appNotification/"
+              "Uri": "https://WinUICommunity.github.io/WinUICommunity/helpers/appNotification/"
             }
           ]
         },

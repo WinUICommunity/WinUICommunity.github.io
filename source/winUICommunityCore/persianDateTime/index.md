@@ -62,4 +62,4 @@ Convert.ToInt32(Extensions.DateDifference(dt1,dt2));
 
 # Extensions
 
-[Go Here](https://ghost1372.github.io/winUICommunityCore/extensions/persianDateTimeExtension/#DateTime)
+[Go Here](https://WinUICommunity.github.io/winUICommunityCore/extensions/persianDateTimeExtension/#DateTime)

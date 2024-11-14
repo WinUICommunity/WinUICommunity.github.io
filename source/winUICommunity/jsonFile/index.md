@@ -72,7 +72,7 @@ only one of this proeprties `IsNew`, `IsUpdated` and `IsPreview` can be `true`
 |Name|Example|Detail|
 |-|-|-|
 |Title|anything||
-|Uri|https://ghost1372.github.io||
+|Uri|https://WinUICommunity.github.io||
 
 
 ## Available Properties in Json (Extra)

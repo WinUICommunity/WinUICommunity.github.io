@@ -112,7 +112,7 @@ in this example we use ItemsPageBase class for creating a LandingPage
                                 <wuc:HeaderTile
                                         Title="Documentation Center"
                                         Description="Learn how to work with controls and styles."
-                                        Link="https://ghost1372.github.io/WinUICommunity/">
+                                        Link="https://WinUICommunity.github.io/WinUICommunity/">
                                     <wuc:HeaderTile.Source>
                                         <Image Source="/Assets/HomeHeaderTiles/Header-WinUIGallery.png" />
                                     </wuc:HeaderTile.Source>

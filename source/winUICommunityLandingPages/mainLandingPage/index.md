@@ -80,7 +80,7 @@ then use MainLandingPage:
             <wuc:HeaderTile
                     Title="Documentation Center"
                     Description="Learn how to work with controls and styles."
-                    Link="https://ghost1372.github.io/WinUICommunity/">
+                    Link="https://WinUICommunity.github.io/WinUICommunity/">
                 <wuc:HeaderTile.Source>
                     <Image Source="/Assets/HomeHeaderTiles/Header-WinUIGallery.png" />
                 </wuc:HeaderTile.Source>
@@ -132,7 +132,7 @@ Set BuildAction to Content, if you are in a Unpackaged Mode, set CopyToOutput to
 {% endnote %}
 
 {% note info %}
-To see details and descriptions of Json's properties, refer to <ins>**[this](https://ghost1372.github.io/winUICommunity/jsonFile)**</ins> page
+To see details and descriptions of Json's properties, refer to <ins>**[this](https://WinUICommunity.github.io/winUICommunity/jsonFile)**</ins> page
 {% endnote %}
 
 ```json
@@ -155,7 +155,7 @@ To see details and descriptions of Json's properties, refer to <ins>**[this](htt
           "Links": [
             {
               "Title": "ApplicationDataContainerPage",
-              "Uri": "https://ghost1372.github.io/WinUICommunity/helpers/applicationDataContainerHelper/"
+              "Uri": "https://WinUICommunity.github.io/WinUICommunity/helpers/applicationDataContainerHelper/"
             }
           ],
           "Extra": [
@@ -174,7 +174,7 @@ To see details and descriptions of Json's properties, refer to <ins>**[this](htt
           "Links": [
             {
               "Title": "AppNotificationPage",
-              "Uri": "https://ghost1372.github.io/WinUICommunity/helpers/appNotification/"
+              "Uri": "https://WinUICommunity.github.io/WinUICommunity/helpers/appNotification/"
             }
           ]
         },

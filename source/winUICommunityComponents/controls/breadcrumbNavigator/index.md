@@ -48,7 +48,7 @@ jsonNavigationViewService.ConfigBreadcrumbBar(breadCrumb, NavigationPageMappings
 
 everything will done automatically.
 
-for more info [see here](https://ghost1372.github.io/winUICommunityCore/navigationService/#ConfigBreadcrumbBar)
+for more info [see here](https://WinUICommunity.github.io/winUICommunityCore/navigationService/#ConfigBreadcrumbBar)
 
 # Normal/Easy Usage
 In this method, you have to add the items yourself
@@ -71,7 +71,7 @@ if you want to use AOT feature, you should pass your `PageDictionary` to `BasicB
 BasicBreadCrumbNavigator.PageDictionary = NavigationPageMappings.PageDictionary;
 ```
 
-for more info and finding a T4 template for generating PageDictionary [see here](https://ghost1372.github.io/winUICommunityCore/navigationService/#ConfigBreadcrumbBar)
+for more info and finding a T4 template for generating PageDictionary [see here](https://WinUICommunity.github.io/winUICommunityCore/navigationService/#ConfigBreadcrumbBar)
 
 then in your pages you should use attached property for Item Title and visibility
 
