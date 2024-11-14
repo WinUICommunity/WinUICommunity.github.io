@@ -12,13 +12,14 @@ Select the documentation related to the desired library from the menu on the lef
 
 # 🚀 Explore Our Gallery App 🚀
 
-> [!NOTE]
->  Want to see WinUICommunity in action? Head over to our Gallery App for a hands-on experience. You’ll find practical examples, usage scenarios, and interactive demos that showcase the power of our toolkit. See [Galery App Source Code](https://github.com/WinUICommunity/WinUICommunity) or Download from Microsoft Store.
+{% note info %}
+Want to see WinUICommunity in action? Head over to our Gallery App for a hands-on experience. You’ll find practical examples, usage scenarios, and interactive demos that showcase the power of our toolkit. See [Galery App Source Code](https://github.com/WinUICommunity/WinUICommunity) or Download from Microsoft Store.
 
 <a href="https://apps.microsoft.com/detail/WUC%20Gallery%20App/9mswnv3wmqc1?launch=true
     &mode=mini">
     <img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
 </a>
+{% endnote %}
 
 ![WinUICommunity](https://raw.githubusercontent.com/WinUICommunity/Resources/main/WinUICommunityDocs/GalleryApp.png)
 
