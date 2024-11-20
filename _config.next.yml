@@ -91,7 +91,7 @@ menu:
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
   Home: / || fa fa-home
-  Components - 7.0.0:
+  Components - 7.1.0:
     default: /winUICommunityComponents/ || fas fa-dice-d20
     Breaking Changes: /breaking_changes/ || fas fa-dice-d20
     Quick start: /quick_start/ || fas fa-dice-d20
@@ -137,7 +137,7 @@ menu:
       default: /styles/ || fas fa-palette
     Validation:
       default: /validation/ || fab fa-intercom
-  Win2D - 7.0.0:
+  Win2D - 7.1.0:
     default: /winUICommunityWin2d/ || fas fa-dice-d20
     Breaking Changes: /breaking_changes/ || fas fa-dice-d20
     Quick start: /quick_start/ || fas fa-dice-d20
@@ -158,7 +158,7 @@ menu:
     Media:
       default: /media/ || fab fa-intercom
       TiledImageBrush: /tiledImageBrush/ ||
-  Core - 7.0.0:
+  Core - 7.1.0:
     default: /winUICommunityCore/ || fas fa-tools
     Breaking Changes: /breaking_changes/ || fas fa-dice-d20
     Attach:
@@ -219,7 +219,7 @@ menu:
     Interfaces:
       default: /interfaces/ || fas fa-tools
       ITitleBarAutoSuggestBoxAware: /iTitleBarAutoSuggestBoxAware/ ||
-  LandingPages - 7.0.0:
+  LandingPages - 7.1.0:
       default: /winUICommunityLandingPages/ || fab fa-intercom
       Breaking Changes: /breaking_changes/ || fas fa-dice-d20
       AllLandingPage: /allLandingPage/ ||
@@ -227,7 +227,7 @@ menu:
       ItemsPageBase: /itemsPageBase/ ||
       MainLandingPage: /mainLandingPage/ ||
       SectionPage: /sectionPage/ ||
-  ContextMenuExtensions - 7.0.0:
+  ContextMenuExtensions - 7.1.0:
       default: /winUICommunityContextMenuExtensions/ || fas fa-brain
       Breaking Changes: /breaking_changes/ || fas fa-dice-d20
         
